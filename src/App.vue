@@ -34,7 +34,7 @@
     </div>
     <div class="credits py-3 is-size-6 has-text-centered">
       made by
-      <a href="https://twitter.com/mplewis" target="_blank">Matt Lewis</a> |
+      <a href="https://twitter.com/mplewis" target="_blank">@mplewis</a> |
       support
       <a href="https://www.patreon.com/wtyppod" target="_blank">
         WTYP on Patreon
